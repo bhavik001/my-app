@@ -1,14 +1,13 @@
 /*********************************************************************************
- * WEB422 – Assignment 06
- * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
- * assignment has been copied manually or electronically from any other source (including web sites) or
- * distributed to other students.
- *
- * Name: Nghi Phuong Huynh Pham - Student ID: 101412203 - Date: Nov 22, 2022
- *
- * Vercel App (Deployed) Link: https://web422-as6-ui.vercel.app/
- *
- ********************************************************************************/
+* WEB422 – Assignment 06
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
+* assignment has been copied manually or electronically from any other source (including web sites) or 
+* distributed to other students.
+* 
+* Name: Bhavikkumar Mistry Student ID: 128788213 Date: 04/12/2022
+*
+* Vercel App (Deployed) Link: https://my-app-dun-alpha.vercel.app/
+********************************************************************************/
 
 import { Image, Row, Col } from 'react-bootstrap'
 
